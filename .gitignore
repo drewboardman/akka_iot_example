@@ -1,4 +1,6 @@
 target
+project
+build
 *.class
 *.iml
 *.ipr
